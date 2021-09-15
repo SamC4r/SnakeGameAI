@@ -8,13 +8,13 @@
 
 > cd SNAKE-AI
 
-> python3 snake.py
+> python snake_ai.py
 
 Si hay errores de paquetes: "No module named..."
 
-> pip3 install --upgrade nombredelpaquete
+> pip install --upgrade nombredelpaquete
 
-> python3 snake_ai.py
+> python snake_ai.py
 
 Para cargar un archivo de entrenamiento
 
