@@ -14,7 +14,11 @@ Si hay errores de paquetes: "No module named..."
 
 > pip3 install --upgrade nombredelpaquete
 
-> python3 multilayer_xor.py
+> python3 snake_ai.py
+
+Para cargar un archivo de entrenamiento
+
+>python snake_ai.py -p population.dat
 
 Juega al snake solo.
 Se comienzan a ver mejoras a partir de la generación 5.
