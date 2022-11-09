@@ -5,7 +5,7 @@ import os
 
 pygame.init()
 
-
+#JEJEJEJA
 ANCHO = 720
 ALTO = 480
 
