@@ -1,5 +1,5 @@
 
-Snake Game AI (neat)
+Snake Game AI (neat) 🐍
 =====
 ### Red Neuronal que juega al Snake en Python 3 con NEAT. 
 ### Creado por Samuel Caraballo Chichiraldi 16 años (29 Agosto 2021)
@@ -20,7 +20,7 @@ Instalación
 
 ```
 $ git clone https://github.com/SamC4r/SnakeGameAI.git
-$ cd SNAKE-AI
+$ cd SNAKETUTO
 $ python3 snake_ai.py
 ```
 
@@ -33,14 +33,14 @@ se puede cambiar a tanh en vez de sigmoid también
 
 fitness_threshold > limite de fitness. Si un individuo llega o supera ese valor de fitness el programa termina y guarda los datos
 
-Para tener resultados mas rapidos:
+👀 Para tener resultados mas rapidos:
 ------------
 - Set render to 0. -r 0
 
-> python3 snake_ai.py -r 0
+```python3 snake_ai.py -r 0```
 
 
-Para cargar poblacion
+🐍 Para cargar poblacion 
 ------------
 
 ```python3 snake_ai.py -p nombre-archivo```
@@ -88,12 +88,8 @@ Samuel Caraballo Chichiraldi
 
 ## Redes:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-
-
-[youtube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
-[discord]: https://discord.com/invite/DCzV7dFP64
+![youtube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
+![discord]: https://discord.com/invite/DCzV7dFP64
 
 
 
