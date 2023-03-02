@@ -90,7 +90,7 @@ Samuel Caraballo Chichiraldi
 
 [YouTube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
 ![Discord Shield](https://discordapp.com/api/guilds/[781244739977740338]/widget.png?style=shield)
-
+<iframe src="https://discord.com/widget?id=781244739977740338&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## Tools:
 
