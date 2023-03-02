@@ -98,11 +98,4 @@ Redes:
 [<img align="left" alt="c#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />]
 [<img align="left" alt="java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://i.pinimg.com/originals/f2/43/4c/f2434c3a2df5758d16d5d7cf5ed8d130.jpg" />]
-
-
-
-
-
-
-
+[<img align="left" alt="James" width="26px" src="https://i.pinimg.com/originals/f2/43/4c/f2434c3a2df5758d16d5d7cf5ed8d130.jpg" />]
