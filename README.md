@@ -4,7 +4,7 @@
 ### Red Neuronal que juega al Snake en Python 3 con NEAT. 
 ### Creado por Samuel Caraballo Chichiraldi 16 años (29 Agosto 2021)
 
-Installation
+Instalacion
 ------------
 
 ```
@@ -13,6 +13,15 @@ $ cd SNAKE-AI
 $ python3 snake_ai.py
 
 ```
+
+Modificar el config-feedforward si es necesario
+
+Atributos mas importantes:
+se puede cambiar a tanh en vez de sigmoid tambien
+- activation_default = sigmoid 
+- fitness_threshold     = 100          
+
+> fitness_threshold limite de fitness. Si un individuo llega o supera ese valor de fitness el programa termina y guarda los datos
 
 Para tener resultados mas rapidos:
 ------------
