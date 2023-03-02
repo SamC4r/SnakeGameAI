@@ -8,17 +8,30 @@
 
 > cd SNAKE-AI
 
-> python snake_ai.py
+> python3 snake_ai.py
+
+Para tener resultados mas rapidos:
+
+> python3 snake_ai.py -r 0
+
+-r render set to 0
+
+Para cargar poblacion
+
+> python3 snake_ai.py -p nombre-archivo
+
+Cada vez que se cierra el programa, se consigue el objetivo (max fitness) se guarda la poblacion como population.dat
+
 
 Si hay errores de paquetes: "No module named..."
 
-> pip install --upgrade nombredelpaquete
+> pip3 install --upgrade nombredelpaquete
 
-> python snake_ai.py
+> python3 snake_ai.py
 
 Para cargar un archivo de entrenamiento
 
->python snake_ai.py -p population.dat
+>python3 snake_ai.py -p population.dat
 
 Juega al snake solo.
 Se comienzan a ver mejoras a partir de la generación 5.
