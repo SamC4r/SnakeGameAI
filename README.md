@@ -88,7 +88,7 @@ Samuel Caraballo Chichiraldi
 
 Redes:
 -----------
-
+🥵🤑😈🥱🤡   click!! 
 <a href="https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw"><img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" ></a>
 <a href="https://discord.com/invite/DCzV7dFP64"><img align="left" alt="codeSTACKr | Dicord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" ></a>
 <img align="left" alt="codeSTACKr | Mail" width="22px" src="https://img.freepik.com/iconos-gratis/gmail_318-674228.jpg">
