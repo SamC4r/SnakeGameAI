@@ -11,7 +11,6 @@ Instalacion
 $ git clone https://github.com/SamC4r/SnakeGameAI.git
 $ cd SNAKE-AI
 $ python3 snake_ai.py
-
 ```
 
 Modificar el config-feedforward si es necesario
@@ -21,7 +20,7 @@ se puede cambiar a tanh en vez de sigmoid tambien
 - activation_default = sigmoid 
 - fitness_threshold     = 100          
 
-> fitness_threshold limite de fitness. Si un individuo llega o supera ese valor de fitness el programa termina y guarda los datos
+fitness_threshold > limite de fitness. Si un individuo llega o supera ese valor de fitness el programa termina y guarda los datos
 
 Para tener resultados mas rapidos:
 ------------
@@ -56,7 +55,7 @@ Juega al snake solo.
 Mejoras significativas generación 15 a 30. 
 
 
-También incluye unn archivo llamado juegosnake.py Este es el juego normal para probar
+También incluye unn archivo llamado snake.py Este es el juego normal para probar
 
 > Para quitar el modo rápido presionar espacio
 
