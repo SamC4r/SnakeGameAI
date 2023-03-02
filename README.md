@@ -88,8 +88,8 @@ Samuel Caraballo Chichiraldi
 
 ## Redes:
 
-![youtube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
-![discord]: https://discord.com/invite/DCzV7dFP64
+[YouTube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
+[Discord]: https://discord.com/invite/DCzV7dFP64
 
 
 
