@@ -1,6 +1,6 @@
 
-### SnakeGameAI
-
+SnakeGameAI
+=====
 ### Red Neuronal que juega al Snake en Python 3 con NEAT. 
 ### Creado por Samuel Caraballo Chichiraldi 16 años (29 Agosto 2021)
 
