@@ -86,9 +86,10 @@ Samuel Caraballo Chichiraldi
 - 🥅 DISCORD PARA DUDAS U OTRAS COSAS: https://discord.com/invite/DCzV7dFP64
 - 🏀 
 
-## Redes:
+Redes:
+-----------
 
-[Youtube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
+[youtube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
 
 ## Tools:
 
