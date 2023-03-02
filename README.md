@@ -4,7 +4,15 @@ Snake Game AI (neat)
 ### Red Neuronal que juega al Snake en Python 3 con NEAT. 
 ### Creado por Samuel Caraballo Chichiraldi 16 años (29 Agosto 2021)
 
-Instalacion
+
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+
+
+
+
+
+
+Instalación
 ------------
 
 ```
@@ -15,8 +23,8 @@ $ python3 snake_ai.py
 
 Modificar el config-feedforward si es necesario
 
-Atributos mas importantes:
-se puede cambiar a tanh en vez de sigmoid tambien
+Atributos más importantes:
+se puede cambiar a tanh en vez de sigmoid también
 - activation_default = sigmoid 
 - fitness_threshold     = 100          
 
