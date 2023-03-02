@@ -88,8 +88,7 @@ Samuel Caraballo Chichiraldi
 
 Redes:
 -----------
-Youtube:
-[youtube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
+[Youtube]:https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
 
 ## Tools:
 
