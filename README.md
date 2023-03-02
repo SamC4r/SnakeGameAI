@@ -89,8 +89,7 @@ Samuel Caraballo Chichiraldi
 ## Redes:
 
 [YouTube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
-[Discord]: https://discord.com/invite/DCzV7dFP64
-<img src="https://discordapp.com/api/guilds/[DCzV7dFP64]/widget.png?style=shield" alt="Discord Shield"/>
+![Discord Shield](https://discordapp.com/api/guilds/[781244739977740338]/widget.png?style=shield)
 
 
 ## Tools:
