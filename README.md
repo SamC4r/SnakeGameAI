@@ -5,8 +5,11 @@ Snake Game AI (neat)
 ### Creado por Samuel Caraballo Chichiraldi 16 años (29 Agosto 2021)
 
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
 
+
+
+
+https://user-images.githubusercontent.com/75754683/222533845-18412245-dcac-487e-804a-dbd11c84583f.mp4
 
 
 
