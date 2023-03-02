@@ -45,7 +45,7 @@ Para cargar poblacion
 
 ```python3 snake_ai.py -p nombre-archivo```
 
-Cada vez que se cierra el programa, se consigue el objetivo (max fitness) se guarda la poblacion como population.dat
+Cada vez que se cierra el programa o se consigue el objetivo (max fitness) se guarda la poblacion como population.dat
 
 
 ⚠️ Errores?
