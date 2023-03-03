@@ -20,7 +20,7 @@ Instalación
 
 ```
 $ git clone https://github.com/SamC4r/SnakeGameAI.git
-$ cd SNAKETUTO
+$ cd SnakeGameAI/SNAKETUTO
 $ python3 snake_ai.py
 ```
 
