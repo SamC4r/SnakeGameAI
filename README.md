@@ -36,6 +36,7 @@ fitness_threshold > limite de fitness. Si un individuo llega o supera ese valor 
 👀 Para tener resultados mas rapidos:
 ------------
 - Set render to 0. -r 0
+- cambiar sigmoid por tanh
 
 ```python3 snake_ai.py -r 0```
 
