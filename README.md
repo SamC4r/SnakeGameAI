@@ -8,7 +8,7 @@ Snake Game AI (neat) 🐍
 
 
 
-
+Ejemplo de snake entrenada. Generacion 28 (nuevita) puede llegar a muchas manzanas.
 https://user-images.githubusercontent.com/75754683/222533845-18412245-dcac-487e-804a-dbd11c84583f.mp4
 
 
