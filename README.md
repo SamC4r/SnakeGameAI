@@ -31,7 +31,7 @@ se puede cambiar a tanh en vez de sigmoid también
 - activation_default = sigmoid 
 - fitness_threshold     = 100          
 
-fitness_threshold > limite de fitness. Si un individuo llega o supera ese valor de fitness el programa termina y guarda los datos
+fitness_threshold > limite de fitness. Si un individuo llega o supera ese valor de fitness el programa termina y guarda los datos. Por defecto fitness es 100. ALcanza para llegar a unas 80-90 manzanas.
 
 👀 Para tener resultados mas rapidos:
 ------------
